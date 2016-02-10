@@ -1,0 +1,36 @@
+_repo: A-Select-Collection-of-Old-English-Plays-Volume-12_46791
+contributor:
+  creator:
+    editor:
+      agent_name: Hazlitt, William Carew
+      alias: Hazlitt, W. Carew (William Carew)
+      birthdate: 1834
+      deathdate: 1913
+      gutenberg_agent_id: '4300'
+      url: http://www.gutenberg.org/2009/agents/4300
+      wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+creator:
+  author:
+    agent_name: Dodsley, Robert
+    aliases:
+    - Dodsley, R. (Robert)
+    - Saddi, Nathan ben
+    birthdate: 1703
+    deathdate: 1764
+    gutenberg_agent_id: '26524'
+    url: http://www.gutenberg.org/2009/agents/26524
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
+description: ''
+gutenberg_issued: '2014-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+tableOfContents: 'The Old Couple -- A Woman never vexed -- The Ordinary -- The London
+  Chanticleers -- The Shepherds'' Holiday -- Fuimus Troes: The true Trojans -- The
+  lost Lady'
+title: A Select Collection of Old English Plays, Volume 12
+url: http://www.gutenberg.org/ebooks/46791
