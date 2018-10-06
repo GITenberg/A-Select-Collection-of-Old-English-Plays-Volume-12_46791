@@ -35,6 +35,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 tableOfContents: 'The Old Couple -- A Woman never vexed -- The Ordinary -- The London
   Chanticleers -- The Shepherds'' Holiday -- Fuimus Troes: The true Trojans -- The
   lost Lady'
